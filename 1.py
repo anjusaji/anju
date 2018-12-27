@@ -1,4 +1,4 @@
-def prime_num(number):
+def prime_num(number)
     """
     function for checking number is prime or not
 
